@@ -7,10 +7,10 @@ The solutions are organized to be easily searchable. I'll primarily use the foll
 ### 1. By Contest ID
 Problems solved during a specific Codeforces contest will be grouped into folders named after the Contest ID and/or Title.
 
-### 2. By Difficulty (Rating)
+### 2. By Difficulty
 Standalone problems or problems solved outside of a direct contest will be grouped by their difficulty rating.
 
-### 3. By Topic Tag (Optional)
+### 3. By Topic Tag
 For deep practice, some folders might be created for specific topics.
 
 ## Languages Used
